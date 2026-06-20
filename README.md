@@ -8,7 +8,7 @@
 
 ## デモ
 
-（デモ動画）
+<img width="400" height="225" alt="Image" src="https://github.com/user-attachments/assets/be9f8504-3064-4998-9f18-3ea5b79959f8" />
 
 ## 特徴
 
